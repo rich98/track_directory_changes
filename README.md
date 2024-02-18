@@ -1,3 +1,5 @@
+Woek in progress the script may not work
+
 Python script that uses the os and hashlib modules to monitor changes in a directory. This script calculates the MD5 hash of all files in a directory and stores them. If a file’s hash changes, it means the file has been modified.
 
 Please replace YOUR_DIRECTORY_PATH with the path of the directory you want to monitor.
